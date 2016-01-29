@@ -1,0 +1,56 @@
+<style type="text/css">
+.cnmu-hijrid {
+  background-color: #3da04b;
+  border: 4px solid #fff;
+  border-radius: 4px;
+  box-shadow: 0 0 2px #000;
+  color: #fff;
+  margin: 10px auto;
+  width: 170px;
+}
+.cnmu-hijrid .datname {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 50px #000 inset;
+  display: block;
+  font-size: 16px;
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+}
+.cnmu-hijrid .datnum {
+  background-color: #000;
+  border-radius: 4px;
+  display: inline-block;
+  float: right;
+  font-size: 24px;
+  height: 48px;
+  line-height: 48px;
+  margin: 10px 10px 10px 0;
+  text-align: center;
+  width: 48px;
+}
+.cnmu-hijrid .month {
+  display: block;
+  float: left;
+  font-family: times new roman;
+  font-size: 20px;
+  margin: 5px;
+  text-align: center;
+  width: 100px;
+}
+.cnmu-hijrid .yearf {
+  background-color: #fff;
+  border-radius: 2px;
+  color: #000;
+  display: inline-block;
+  float: left;
+  font-size: 20px;
+  height: 24px;
+  line-height: 24px;
+  margin-bottom: 5px;
+  margin-left: 18px;
+  text-align: center;
+  width: 80px;
+}
+.fasel1,.fasel2,.fasel3 {display: none;}
+</style>
